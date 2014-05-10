@@ -57,8 +57,6 @@ class MyKMeans():
 			print self.centroid
 			self.classify()
 			self.getCentroid()
-			#for i,value in enumerate(self.X):
-			#	self.labels_[i] = 
 			ii += 1
 		print self.labels_
 
