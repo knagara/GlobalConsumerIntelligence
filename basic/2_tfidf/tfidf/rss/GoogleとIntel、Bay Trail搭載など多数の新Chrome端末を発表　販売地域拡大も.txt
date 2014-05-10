@@ -1,0 +1,12 @@
+
+　米Googleと米Intelは5月6日（現地時間）、Chrome OSに関連するイベントを開催し、初のBay Trail（コードネーム）搭載端末などを発表した。<br /><br /><a href="http://rdsig.yahoo.co.jp/media/news/rd_tool/zdn_n/articles/sci/RV=1/RE=1400659557/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cDovL3d3dy5pdG1lZGlhLmNvLmpwL25ld3MvYXJ0aWNsZXMvMTQwNS8wNy9uZXdzMDQ2Lmh0bWw-/RS=^ADAANfAjJOLHoaiuL_FYwKbT3PZMgg-">【拡大画像や他の画像】</a><br /><br />　2013年下期の段階では、Chrome OS搭載端末のOEMはAcer、ASUSTeK、Hewlett-Packard（HP）、東芝の4社だったが、2014年下期にはDell、Lenovo、LG Electronics、HEXA、CTLが加わり、20種類のモデルがそろうという。<br />
+<br />
+　Bay Trail搭載端末はLenovo、東芝、ASUSTeK、Acerから今夏に発売される。Bay Trail搭載端末の特徴としては、バッテリー持続時間が11時間以上で、空冷用のファンが必要ないので従来より薄く、軽くなり、IEEE 802.11acをサポートする。<br />
+<br />
+　Lenovoは279ドルの「N20」と329ドルの「N20P」という2モデルを発表。いずれもディスプレイは11.6インチ（1366×768）で厚さは17.99ミリ以下、重さは1.4キロ以下。4コアのCeleronを搭載し、RAMは4Gバイト、ストレージは16Gバイト。N20Pのディスプレイはタッチ対応で、キーボードは300度回転する。<br />
+<br />
+　また、DellとAcerは、第4世代Core i3搭載の新Chromebookを発売する。Dellは昨年12月に発表した「Chromebook 11」の、Acerは昨年10月に発表した「C720」のCore i3搭載モデルを用意する。いずれも現行モデルのプロセッサはIntel Celeron 2955Uだ。<br />
+<br />
+　LG Electronicsが昨年12月に発表したオールインタイプの「Chromebase」を今月米国で発売する。21.5インチのフル高精細（1920×1080）IPSディスプレイにCPU、メモリ、ストレージが搭載されており、キーボードとマウスが付属する。プロセッサは米IntelのCeleronで、メモリは2Gバイト、ストレージ（iSSD）は16Gバイト。価格は349.99ドルだ。<br />
+<br />
+　Chrome OS搭載端末は日本ではまだ発売されていない。イベントでGoogleの担当者は、向こう数カ月中に9カ国を販売地域に加える計画と語ったが、日本が含まれるかどうかは不明だ。

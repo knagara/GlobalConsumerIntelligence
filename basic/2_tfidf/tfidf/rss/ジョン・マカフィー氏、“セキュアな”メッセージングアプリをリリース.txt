@@ -1,0 +1,6 @@
+
+　米セキュリティソフト会社McAfeeの創業者、ジョン・マカフィー氏の企業、米Future Tense Private Systems（FTC）は5月5日（現地時間）、“プライベートなメッセージングアプリ”、「CHADDER」を発表した。Android版とWindows Phone版がそれぞれのアプリストアで無料で公開されている。同社は米AppleのiOS版も数週間中にリリースできるとしている。<br /><br /><a href="http://rdsig.yahoo.co.jp/media/news/rd_tool/zdn_n/articles/sci/RV=1/RE=1400659557/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cDovL3d3dy5pdG1lZGlhLmNvLmpwL25ld3MvYXJ0aWNsZXMvMTQwNS8wNy9uZXdzMDgwLmh0bWw-/RS=^ADAi4y17ReCqV1nBsGx1ed8BBBiHD0-">【拡大画像や他の画像】</a><br /><br />　同社の説明によると、CHADDERのメッセージはFTCのサーバを通じて暗号化されて受信者に送られるので、「FTCでさえ読むことができない」という。<br />
+<br />
+　ただし、複数のメディアがテストした結果、メッセージが届かないなどの問題がある上、一旦アカウントを作成するとそれを削除する方法がないなどの“βレベル”だと報じている。<br />
+<br />
+　マカフィー氏は1994年にMcAfeeの株式を売却し、現在は同社とは完全に無関係だ。昨年10月には“米国家安全保障局（NSA）も侵入できない”プライベートネットワークを構築できるというガジェット「D-CENTRAL」を開発中だと発表したが、まだ製品化されていない。

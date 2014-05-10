@@ -1,0 +1,8 @@
+
+　シフトは、iBeaconを活用した博物館、美術館向けのプッシュ通知システム「館ナビ」を開発した。<br /><br /><a href="http://rdsig.yahoo.co.jp/media/news/rd_tool/zdn_mkt/articles/ind/RV=1/RE=1400659129/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cDovL2Jpem1ha290by5qcC9tYWtvdG8vYXJ0aWNsZXMvMTQwNS8wMi9uZXdzMTE2Lmh0bWw-/RS=^ADAu8nUy0wm4vTZopRfMfMiMqo9WoU-">【他の画像】</a><br /><br />　展示物に近づくと来館者のスマホへ適切な情報をプッシュ通知するシステム。近接無線通信技術であるBluetooth Low Energyを用いた「iBeacon」機能などを用いて実現する。展示物の周辺に設置したビーコン発信器の電波を受信し、来館者のスマートフォンへインターネットを介してその展示物の情報を自動的に表示できる。<br />
+<br />
+　iBeaconはアップル「iPhone」、「iPad」シリーズのiOS 7以降で標準対応した機能。近接無線通信規格にはAndroid機器に採用例があるNFCもあるが、iBeaconおよびBluetooth Low EnergyはiOS搭載のiPhoneシリーズでも使えるのが利点。O2O（Online to Offline：オンラインの情報からオフラインの消費行動を促すマーケティング施策）の切り札と言われている。<br />
+<br />
+　館ナビは、主に博物館、美術館、画廊向けに開発。来館者向けサービスとして利便性や集客効果の向上を図れるほか、ログデータから来場者の動向や行動を解析し、次につなげるマーケティング調査にも役立てられる。電波は半径10メートルまで到達するので、屋外への通知も可能。館内／店内やサイネージなどから近くの歩行者へプッシュ配信し、来店を促すツールとしての活用も見込まれる。iOS向け、Android向けの専用スマートフォンアプリ「館ナビ」（2014年5月2日現在、準備中）も用意する。<br />
+<br />
+　館・店舗向け初期導入キットとして、ビーコン端末10個セットと仕様書・マニュアルを用意。導入事例別のカスタマイズも受け付ける。

@@ -1,0 +1,4 @@
+
+　日本航空（JAL）と野村総合研究所（NRI）はこのほど、米ハワイのホノルル空港で、Google Glassを活用した業務スタイルの実証実験を始めた。航空機の整備士などJALの実務スタッフがGoogle Glassを装着し、遠隔地にいるJAL本社スタッフから後方支援を受けるなど、現場作業の効率向上や負担軽減を図る。<br /><br /><a href="http://rdsig.yahoo.co.jp/media/news/rd_tool/zdn_n/articles/sci/RV=1/RE=1400659555/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cDovL3d3dy5pdG1lZGlhLmNvLmpwL25ld3MvYXJ0aWNsZXMvMTQwNS8wNy9uZXdzMTAxLmh0bWw-/RS=^ADAY.fs6WqzWjYDItxrxpxlgWAgxH8-">【拡大画像や他の画像】</a><br /><br />　航空機の整備作業や貨物の搭降載作業を効率的・確実に実施可能にするシステムの導入が目的。Google Glassは現在、米国内でのみ試験運用されており、実験も米国内で実施する。手に装着するグローブ型デバイスなど、Google Glass以外のウェアラブル端末の活用も検討する。<br />
+<br />
+　NRIは、企業と共同で新サービスの創出を目指す「NRI未来ガレージ」の一環として参画。実際の空港の現場に必要なユーザーインタフェースの最適化などを進める。

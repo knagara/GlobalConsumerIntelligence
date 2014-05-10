@@ -1,0 +1,2 @@
+
+　マイクロソフトは5月2日（日本時間）、先日発見されたInternet Explorerの脆弱（ぜいじゃく）性に対処する緊急のセキュリティ更新プログラム（KB2964358／MS14-021）を公開した。　一連の騒ぎはひとまず落ち着きそうだ。<br /><br /><a href="http://rdsig.yahoo.co.jp/media/news/rd_tool/zdn_mkt/articles/ind/RV=1/RE=1400659132/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cDovL2Jpem1ha290by5qcC9tYWtvdG8vYXJ0aWNsZXMvMTQwNS8wMi9uZXdzMDQ4Lmh0bWw-/RS=^ADAiLaZwri0RI3yaUD_iZvitZHmxRs-">【他の画像】</a><br /><br />　対象はWindows XP SP3からWindows 8.1／RT 8.1にインストールされたIE 6、7、8、9、10、11。Windows Updateを通じて配信する。IEの自動更新を有効にしていればアップデートは自動で行われ、再起動後に適用される。例外的に、2014年4月9日でサポートを終えたWindows XPも更新の対象となる。
