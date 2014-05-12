@@ -3,7 +3,6 @@ import random
 from itertools import izip
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
 
 class MyKMeans():
 	def __init__(self,init,n_clusters):
