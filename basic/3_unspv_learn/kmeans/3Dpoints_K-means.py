@@ -1,4 +1,5 @@
 #coding:utf-8
+import csv
 import random
 from itertools import izip
 import numpy as np
@@ -69,10 +70,12 @@ class MyKMeans():
 			ii += 1
 
 #データ作成
-a=np.random.random((10,3))+2
-b=np.random.random((10,3))+5
-c=np.random.random((10,3))+8
-X=np.concatenate((a,b,c))
+X = []
+f = open('points.csv','rb')
+dataReader = csv.reader(f)
+for row in dataReader:
+	row_f = map(float,row)
+	X.append(row_f)
 
 #k-means法の実行
 my_kmeans = MyKMeans('random',3) #初期化方法、クラスタ数
@@ -80,10 +83,7 @@ my_kmeans.setIteration(30) #反復回数指定
 my_kmeans.fit(X) #クラスタリング実行
 Y=my_kmeans.labels_ #ラベル名取得
 
-#plt.scatter(*zip(*X), c= my_kmeans.labels_, vmin=0, vmax=2, s=12)
-
-#plt.show()
-
+#3次元点群の可視化
 fig = plt.figure()
 ax = Axes3D(fig)
 ax.scatter3D(*zip(*X), c= my_kmeans.labels_, vmin=0, vmax=2, s=12)
