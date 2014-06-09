@@ -16,7 +16,7 @@ class Dendrogram():
 		self.dim = len(X[0])
 		self.Z = []
 		self.maxvalue = sys.maxint
-		self.maxvalue = 999
+		#self.maxvalue = 999
 		self.D = np.ones([self.len,self.len])*self.maxvalue
 		self.count = self.len
 		self.cluster = {}
