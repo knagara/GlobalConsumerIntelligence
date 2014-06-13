@@ -1,0 +1,9 @@
+<li class="basic">業界規模：4,308億円</li>
+<li class="basic">経常利益計：160億円</li>
+<li class="basic">売上高純利益率：+0.8％</li>
+<li class="basic">過去5年の伸び率：+1.3%</li>
+<li class="basic">総資産額：3,090億円</li>
+<li class="basic">労働者数：6,102人</li>
+<li class="basic">平均年齢：38.8歳</li>
+<li class="basic">平均勤続年数：9.6年</li>
+<li class="basic">平均年収：472万円</li>

@@ -78,7 +78,7 @@ for row in dataReader:
 	X.append(row_f)
 
 #k-means法の実行
-my_kmeans = MyKMeans('random',3) #初期化方法、クラスタ数
+my_kmeans = MyKMeans('random',2) #初期化方法、クラスタ数
 my_kmeans.setIteration(30) #反復回数指定
 my_kmeans.fit(X) #クラスタリング実行
 Y=my_kmeans.labels_ #ラベル名取得
