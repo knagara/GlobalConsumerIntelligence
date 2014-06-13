@@ -71,7 +71,7 @@ class MyKMeans():
 
 #データ作成
 X = []
-f = open('points.csv','rb')
+f = open('points/points01_5.csv','rb')
 dataReader = csv.reader(f)
 for row in dataReader:
 	row_f = map(float,row)
