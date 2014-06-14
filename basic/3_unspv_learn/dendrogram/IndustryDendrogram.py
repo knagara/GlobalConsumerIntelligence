@@ -110,13 +110,15 @@ Xlabel = []
 f = codecs.open('./gyokai__excel/gyokai_std_utf8.csv','rU')
 csvReader = csv.reader(f)
 for row in csvReader:
-	Xlabel.append(str(row[0]))
+	#Xlabel.append(str(row[0]))
+	Xlabel.append(row[0].decode('utf-8'))
 	x = []
 	for i,r in enumerate(row):
 		if(i>0):
 			x.append(float(r))
 	X.append(x)
 
+"""
 myDendrogram = Dendrogram(X)
 myDendrogram.fit()
 
@@ -124,14 +126,20 @@ for i in myDendrogram.Z:
 	for j in i:
 		print str(j).rjust(10),
 	print ""
+"""
 
 #X = [[1,1],[3,3],[7,7],[8,8],[15,15],[20,20],[22,22],[37,37],[55,55],[60,60]]
 p= pdist(X, metric="euclidean") #ユークリッド距離を採用する
-Z= linkage(p, method="single") #最小最短距離法をmethodで指定する
+Z= linkage(p, method="average") #最小最短距離法をmethodで指定する
 
 print Z
-
-dendrogram(Z)
-
+#print Xlabel
+dendrogram(Z,labels=Xlabel)
 plt.show()
+
+
+
+
+
+
 
