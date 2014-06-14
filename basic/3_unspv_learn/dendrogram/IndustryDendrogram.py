@@ -1,5 +1,7 @@
-#coding:utf8
+#coding:utf-8
 import sys
+import csv
+import codecs
 import math
 from itertools import izip
 import numpy as np
@@ -8,7 +10,7 @@ from scipy.spatial.distance import pdist
 import matplotlib.pyplot as plt
 
 class Dendrogram():
-    
+
 	def __init__(self,X):
 		self.X = X
 		self.len = len(X)
@@ -47,7 +49,7 @@ class Dendrogram():
 			for j in range(0,self.len):
 				print '%03d' % self.D[i][j] ,
 			print ""
-	
+
 	#クラスタ辞書内の検索
 	def getClusterNumber(self,value):
 		num = 0
@@ -101,7 +103,19 @@ class Dendrogram():
 
 
 ### main ###
-X = [[1,1],[3,3],[7,7],[8,8],[15,15],[20,20],[22,22],[37,37],[55,55],[60,60]]
+#X = [[1,1],[3,3],[7,7],[8,8],[15,15],[20,20],[22,22],[37,37],[55,55],[60,60]]
+
+X = []
+Xlabel = []
+f = codecs.open('./gyokai__excel/gyokai_std_utf8.csv','rU')
+csvReader = csv.reader(f)
+for row in csvReader:
+	Xlabel.append(str(row[0]))
+	x = []
+	for i,r in enumerate(row):
+		if(i>0):
+			x.append(float(r))
+	X.append(x)
 
 myDendrogram = Dendrogram(X)
 myDendrogram.fit()
@@ -111,7 +125,7 @@ for i in myDendrogram.Z:
 		print str(j).rjust(10),
 	print ""
 
-X = [[1,1],[3,3],[7,7],[8,8],[15,15],[20,20],[22,22],[37,37],[55,55],[60,60]]
+#X = [[1,1],[3,3],[7,7],[8,8],[15,15],[20,20],[22,22],[37,37],[55,55],[60,60]]
 p= pdist(X, metric="euclidean") #ユークリッド距離を採用する
 Z= linkage(p, method="single") #最小最短距離法をmethodで指定する
 
@@ -120,3 +134,4 @@ print Z
 dendrogram(Z)
 
 plt.show()
+
