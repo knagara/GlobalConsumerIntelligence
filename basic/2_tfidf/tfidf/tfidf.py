@@ -60,7 +60,7 @@ for i,t in enumerate(tfidf):
 			print item[0]+",",
 			f.write(item[0]+",")
 			count+=1
-			if(count>=5):
+			if(count>=10):
 				break
 	print ""
 	f.write("\n")
