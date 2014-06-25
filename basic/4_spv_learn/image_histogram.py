@@ -11,9 +11,9 @@ import pylab as plt
 if __name__ == '__main__':
 
     # 画像取得
-    #im = cv2.imread("/Users/Keita/Documents/temp/Nature/11.jpg")
+    im = cv2.imread("/Users/Keita/Documents/temp/Nature/02.jpg")
     #im = cv2.imread("/Users/Keita/Documents/temp/City/25.jpg")
-    im = cv2.imread("/Users/Keita/Documents/temp/Rural/2.jpg")
+    #im = cv2.imread("/Users/Keita/Documents/temp/Rural/2.jpg")
     #im = cv2.imread("/Users/Keita/Documents/temp/Machi/1.jpg")
 
     graph = plt.figure()
